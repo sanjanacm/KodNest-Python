@@ -1,5 +1,6 @@
 print("This is our first class")
 print("Good Morning")
 print("Welcome to the Python Track")
-print("I already know hoe to build ptogramming logic.")
+print("My name is Sanjana C M")
+print("I already know how to build ptogramming logic.")
 print("Now i am learning how to express that logic using python")

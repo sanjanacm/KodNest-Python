@@ -2,26 +2,29 @@
 
 ## My Name
 
-Write your name.
+Sanjana C M
 
 ## What I Learned in Foundation Month
-
-Write at least three things you learned.
+1.Learned the basics of Python programming.
+2.Understood variables,data types and operators.
+3.Practical conditional statements,loops and basics problem-solving
 
 ## Why I Selected Python
 
-Write your reason in your own words.
+I selected python because it is simple to learn,easy to understand,and widely used in software development.I am interested im improving my programming and problem-solving skills using Python.
 
 ## My Career Goal
 
-Write the role you want to achieve.
+My goal is to become a Software Developer and build a successful career in the IT industry.
+
+
 
 ## What I Understood Today
 
 Complete these sentences:
 
-Programming means:
+Proginmming means: Giving instructions to a computer to perform specific tasks.
 
-Python is:
+Python is:A popular high-level programming language known for its simplicity and versatility. 
 
-In this track, I will learn:
+In this track, I will learn:How to install git and use github and how push the code into the github etc.
